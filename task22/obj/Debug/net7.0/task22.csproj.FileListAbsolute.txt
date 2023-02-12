@@ -1,0 +1,15 @@
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\obj\Debug\net7.0\task22.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\obj\Debug\net7.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\obj\Debug\net7.0\task22.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\obj\Debug\net7.0\task22.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\obj\Debug\net7.0\task22.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\bin\Debug\net7.0\task22.exe
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\bin\Debug\net7.0\task22.deps.json
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\bin\Debug\net7.0\task22.runtimeconfig.json
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\bin\Debug\net7.0\task22.dll
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\bin\Debug\net7.0\task22.pdb
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\obj\Debug\net7.0\task22.dll
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\obj\Debug\net7.0\refint\task22.dll
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\obj\Debug\net7.0\task22.pdb
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\obj\Debug\net7.0\task22.genruntimeconfig.cache
+C:\Users\Денис\Desktop\Обучение gb\C#1\task22\obj\Debug\net7.0\ref\task22.dll
